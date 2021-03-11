@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GoogleMaps/Examples/01_GettingStarted/HelloWorld.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

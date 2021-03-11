@@ -1,0 +1,21 @@
+{
+  "name": "com.unity.runtime-scene-serialization",
+  "displayName": "Unity Runtime Scene Serialization",
+  "version": "0.2.1-preview",
+  "unity": "2019.3",
+  "unityRelease": "0f6",
+  "description": "Serialize and deserialize a Unity scene and its GameObjects and Components using a JSON format",
+  "dependencies": {
+    "com.unity.properties": "1.5.0-preview",
+    "com.unity.serialization": "1.5.0-preview",
+    "com.unity.xrtools.utils": "1.1.1"
+  },
+  "upmCi": {
+    "footprint": "3c145a375538b031d5bf67dc7b39f861dda33ac5"
+  },
+  "repository": {
+    "url": "https://github.com/UnityLabs/com.unity.runtime-scene-serialization.git",
+    "type": "git",
+    "revision": "f3553c0fa8958bbaae3c07b811e55ad853b9b48c"
+  }
+}
